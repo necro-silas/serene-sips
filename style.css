@@ -1,0 +1,95 @@
+#Home{
+    text-align: center;
+    padding: 50px;
+    
+    
+   
+}
+h1{
+    font-size: 30px;
+    margin-bottom: 20px;
+    font-style: italic;
+    
+}
+button{
+    
+    color: brown;
+    background-color: #D7B7A3;
+    
+    
+}
+p{
+    color: brown;
+}
+
+
+#nav ul li{
+    
+    background-color: #D7B7A3;
+    width: 200px;
+    
+    
+    display: inline-block;
+}
+nav{
+    text-align: center;
+}
+a{
+   
+   
+   
+    display: inline-block;
+    color: black;
+    text-align: center;
+    line-height: 40px;
+   
+    text-decoration: none;
+}
+#menu{
+    
+    text-align: justify;
+    line-height: 2em;
+    
+    
+}
+#cafe{
+    background-color: #D7B7A3;
+}
+#About-Us{
+    margin-top: 20px;
+    margin-left: 50px;
+    padding-bottom: 10px;
+}
+#About-Us p{
+    color: brown;
+    margin-bottom: 15px; 
+    line-height: 1.5em; 
+    text-align: justify;
+    margin-bottom: 10px;
+}
+#contact-us {
+    margin-top: 20px;
+    margin-left: 50px;
+    padding-bottom: 20px;
+    border-bottom-color: rgb(0, 0, 0);
+    border-bottom-style: solid;
+    border-bottom-width: 0.8px;
+  }
+  
+  #contact-us p {
+    text-align: justify;
+    line-height: 0.5em;
+    color: black;
+    font-weight:bolder ;
+
+  }
+  address{
+    line-height: 2.5em;
+    text-align: justify;
+  }
+  
+
+
+
+
+
